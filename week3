@@ -1,0 +1,52 @@
+<h1>웹 개발 기초</h1> <!--제목-->
+<p>HTML</p> <!--텍스트 단락-->
+<p>CSS</p>
+<p>자바스크립트</p>
+
+<!DOCTYPE html> <!--현재 문서가 HTML 언어로 작성한 웹 문서라는 뜻-->
+<html lang="ko"> <!--웹 문서의 시작과 끝을 나타내는 태그, 웹 브라우저가 <html>태그를 만나면 </html>까지 코드를 읽어 화면에 표시-->
+<head> <!--웹 브라우저가 웹 문서를 해석하는 데 필요한 정보를 입력하는 부분-->
+  <meta charset="UTF-8">
+  <title>HTML 기본 문서</title>
+</head>
+<body> <!--실제로 웹 브라우저 화면에 나타나는 내용-->
+  <h1>웹 문서 만들기</h1>
+  <hr>
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>자바스크립트</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+
+<html lang="ko"> <!--검색 결과 중에서 '한국어로 된 문서'로 범위를 제한할 경우 우선 검색됨-->
+...
+</html>
+
+<meta charset="UTF-8">
+
+<meta name="keywords" content=""> <!--웹 문서의 키워드-->
+<meta name="description" content=""> <!--웹 문서의 설명-->
+<meta name="author" content=""> <!--웹 문서의 소유자나 제작자->
+
+<title>HTML 기본 문서</title>
+
+<body> 
+...
+</body>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content=""width=device-width, initial-scale="1.0">
+  <title>웹 문서 연습</title>
+</head>
+<body>
+  <h1>웹 문서 만들기</h1>
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>자바스크립트</p>
+</body>
+</html>
